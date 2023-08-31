@@ -1,3 +1,3 @@
-a=int(input())
-r=3.14*a*a
-print(f"%.2f"%r)
+r=int(input())
+a=3.14*r*r
+print(f"%.2f"%a)
